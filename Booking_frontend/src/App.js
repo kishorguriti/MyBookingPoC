@@ -9,10 +9,7 @@ import Bookings from "./Pages/Bookings";
 import Profile from "./Pages/Profile";
 import UserFavorites from "./components/User/UserFavorites";
 import Analytics from "./Pages/Analytics";
-// import { useState } from "react";
-// import { format } from "date-fns";
-// import { ToastContainer, toast } from "react-toastify";
-// import { DateContext } from "./Context/DateContext";
+
 
 function App() {
   return (
